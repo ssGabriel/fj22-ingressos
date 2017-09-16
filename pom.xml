@@ -166,5 +166,10 @@
             </plugin>
         </plugins>
     </build>
-
+	<developers>
+		<developer>
+		<name>Gabriel Santos</name>
+		<email>g.souza1994@gmail.com</email>
+		</developer>
+	</developers>
 </project>
