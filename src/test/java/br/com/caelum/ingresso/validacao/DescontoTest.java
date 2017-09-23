@@ -1,5 +1,5 @@
 package br.com.caelum.ingresso.validacao;
-
+//Hj é dia de Balada
 import java.math.BigDecimal;
 import java.time.Duration;
 import java.time.LocalTime;
